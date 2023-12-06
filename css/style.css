@@ -1,18 +1,18 @@
 
 #cw {
-    position: fixed;
-    z-index: -1;
-    padding: 0;
-    margin: auto;
-    display: block;
-    width: 90vw;
-    height: 75vh;
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    border-radius: 2rem;
+ position: fixed;
+ z-index: -1;
+ padding: 0;
+ margin: auto;
+ display: block;
+ width: 90vw;
+ height: 75vh;
+ position: absolute;
+ top: 0;
+ bottom: 0;
+ left: 0;
+ right: 0;
+ border-radius: 2rem;
 }  
 body {
  font-family: Lilita One, Arial, sans-serif;
@@ -70,9 +70,8 @@ p {
  padding-bottom: 1rem;   
 }
 .first-section h2, h3 {
-    padding-bottom: 0.5rem;   
-   }
-
+ padding-bottom: 0.5rem;   
+}
 .section {
  display: flex;
  padding-bottom: 2rem;
@@ -152,7 +151,6 @@ nav ul li a:hover {
 .show-section h1 {
  padding-bottom: 1rem;
 }
-
 .container {
  height: 100%; 
  min-height: 100%;
